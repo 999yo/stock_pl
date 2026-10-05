@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/holdingschart.tsx","./src/components/profitchart.tsx","./src/components/summarycards.tsx","./src/components/transactionform.tsx","./src/components/transactionlist.tsx"],"version":"5.7.3"}
